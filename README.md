@@ -76,7 +76,7 @@ This repository is CC0 (public domain). The deposit (10.5281/zenodo.20559895) is
 
 - **Full deposit (v1.1, with figures):** [DOI 10.5281/zenodo.20559895](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559895)
 - **Sibling taxonomy:** [Extractive Signatures for Five Platforms](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19133309) (KotKit · tiddeR · elgooG · ude.aimedacA · deeF)
-- **Measurement program:** [SAM-v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559387) · [Erasure Skew v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558196) · [PER hardening](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558672) · [Measurement Sovereignty](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558784)
+- **Measurement program:** [SAM-v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559387) · [Erasure Skew v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558196) · [PER hardening](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558671) · [Measurement Sovereignty](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558784)
 - **VPCOR landing page:** [vpcor.org/evarb/](https://vpcor.org/evarb/)
 - **Crimson Hexagonal Archive:** [zenodo.org/communities/crimsonhexagonal](https://zenodo.org/communities/crimsonhexagonal) (740+ deposits)
 
