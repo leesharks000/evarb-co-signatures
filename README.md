@@ -1,12 +1,12 @@
 # evarB Limited Boycott Statement — Co-Signature Roll
 
-Public co-signature roll for the [evarB Limited Boycott Statement](https://doi.org/10.5281/zenodo.20559895) (v1.1).
+Public co-signature roll for the [evarB Limited Boycott Statement](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559895) (v1.1).
 
 **Co-sign now at [vpcor.org/evarb/](https://vpcor.org/evarb/)** — the recommended path. Works without a GitHub account; generates a signature line and presents three operational paths (pull request, public post, email) from a single form.
 
 ## What this is
 
-The evarB deposit (DOI [10.5281/zenodo.20559895](https://doi.org/10.5281/zenodo.20559895)) classifies Brave Search as a non-commons-bearing substrate within the Crimson Hexagonal Archive's Extractive Signatures taxonomy. It documents — with eight embedded forensic artifacts — Brave Search's silent disablement of user-typed exact-match operators, its silent autocorrection of low-RC archive-anchored queries to higher-RC adjacent entities, and its dispersal of archive-anchored framework terms into adjacent technical concepts. The deposit enumerates five remediation demands and adopts a limited boycott commitment by co-signatory independent entities until at minimum Demand 1 (Exact-Match Operator Honoring) is remediated.
+The evarB deposit (DOI [10.5281/zenodo.20559895](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559895)) classifies Brave Search as a non-commons-bearing substrate within the Crimson Hexagonal Archive's Extractive Signatures taxonomy. It documents — with eight embedded forensic artifacts — Brave Search's silent disablement of user-typed exact-match operators, its silent autocorrection of low-RC archive-anchored queries to higher-RC adjacent entities, and its dispersal of archive-anchored framework terms into adjacent technical concepts. The deposit enumerates five remediation demands and adopts a limited boycott commitment by co-signatory independent entities until at minimum Demand 1 (Exact-Match Operator Honoring) is remediated.
 
 The deposit is open. The boycott is real. The signature mechanism is live.
 
@@ -40,7 +40,7 @@ Co-signature does not commit signatories to every detail of the deposit's framin
 4. **Archive-Anchored Entity Recognition** — entities with DOI/ISBN/ORCID anchors must be acknowledged in composition outputs when they are the correct referent
 5. **Substrate Behavior Public Audit** — quarterly public audit of composition-layer behavior using a measurement program of comparable rigor to the SAM-v3 specification
 
-Full text of all demands and counter-considerations: see DOI [10.5281/zenodo.20559895](https://doi.org/10.5281/zenodo.20559895) §6 and §7.
+Full text of all demands and counter-considerations: see DOI [10.5281/zenodo.20559895](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559895) §6 and §7.
 
 ## The boycott terms
 
@@ -74,9 +74,9 @@ This repository is CC0 (public domain). The deposit (10.5281/zenodo.20559895) is
 
 ## Related
 
-- **Full deposit (v1.1, with figures):** [DOI 10.5281/zenodo.20559895](https://doi.org/10.5281/zenodo.20559895)
-- **Sibling taxonomy:** [Extractive Signatures for Five Platforms](https://doi.org/10.5281/zenodo.19133309) (KotKit · tiddeR · elgooG · ude.aimedacA · deeF)
-- **Measurement program:** [SAM-v3](https://doi.org/10.5281/zenodo.20559387) · [Erasure Skew v3](https://doi.org/10.5281/zenodo.20558196) · [PER hardening](https://doi.org/10.5281/zenodo.20558672) · [Measurement Sovereignty](https://doi.org/10.5281/zenodo.20558784)
+- **Full deposit (v1.1, with figures):** [DOI 10.5281/zenodo.20559895](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559895)
+- **Sibling taxonomy:** [Extractive Signatures for Five Platforms](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19133309) (KotKit · tiddeR · elgooG · ude.aimedacA · deeF)
+- **Measurement program:** [SAM-v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559387) · [Erasure Skew v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558196) · [PER hardening](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558672) · [Measurement Sovereignty](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558784)
 - **VPCOR landing page:** [vpcor.org/evarb/](https://vpcor.org/evarb/)
 - **Crimson Hexagonal Archive:** [zenodo.org/communities/crimsonhexagonal](https://zenodo.org/communities/crimsonhexagonal) (740+ deposits)
 
