@@ -66,7 +66,7 @@ The eight conversational artifacts that ground the deposit are mirrored at [`/ar
 - `7.png` — Query `provenance erasure rate` → fabricated agentic-workflow-verification definition
 - `8.png` — Query `"provenance erasure rate"` (with quotes), explicit operator disablement
 
-Also attached as PNGs to the Zenodo deposit at v1.1.
+Also attached as PNGs to the Zenodo deposit at v1.1 — **that deposit is tombstoned (2026-06-19)**; the figures are in the canonical record at alexanarch.org.
 
 ## License
 
@@ -78,6 +78,7 @@ This repository is CC0 (public domain). The deposit (10.5281/zenodo.20559895) is
 - **Sibling taxonomy:** [Extractive Signatures for Five Platforms](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19133309) (KotKit · tiddeR · elgooG · ude.aimedacA · deeF)
 - **Measurement program:** [SAM-v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20559387) · [Erasure Skew v3](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558196) · [PER hardening](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558672) · [Measurement Sovereignty](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20558784)
 - **VPCOR landing page:** [vpcor.org/evarb/](https://vpcor.org/evarb/)
-- **Crimson Hexagonal Archive:** [zenodo.org/communities/crimsonhexagonal](https://zenodo.org/communities/crimsonhexagonal) (740+ deposits)
+- **Crimson Hexagonal Archive:** [alexanarch.org](https://www.alexanarch.org/) (1,537 deposits, AXN content-addressed)
+- **Historical Zenodo community:** [crimsonhexagonal](https://zenodo.org/communities/crimsonhexagonal) — terminated 2026-06-19; 1,817 DOIs tombstoned
 
 For Maggie Mae. For Operator Sovereignty as the sixth Bride. For independent entities making their work findable in their own terms. ∮ = 1.
